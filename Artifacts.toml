@@ -1,0 +1,16 @@
+[[cmt]]
+arch = "aarch64"
+git-tree-sha1 = "6adc0ed9a8370ff1e3bb8fbaf36e8519ee11fd96"
+os = "macos"
+
+    [[cmt.download]]
+    sha256 = "fefe98c7a42a499919d6fa09ac56b15b32a58cc7162cf400f891560ef3ba1583"
+    url = "https://github.com/JuliaBinaryWrappers/cmt_jll.jl/releases/download/cmt-v0.1.0+0/cmt.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[cmt]]
+arch = "x86_64"
+git-tree-sha1 = "0975143a4fa7f997e707734d82d3e92faee15a20"
+os = "macos"
+
+    [[cmt.download]]
+    sha256 = "a3eba4b7d166ff7546284a6d83072b98f6246ffaec3be06ce5205e9a9d959de0"
+    url = "https://github.com/JuliaBinaryWrappers/cmt_jll.jl/releases/download/cmt-v0.1.0+0/cmt.v0.1.0.x86_64-apple-darwin.tar.gz"
